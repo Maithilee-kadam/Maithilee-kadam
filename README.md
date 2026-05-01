@@ -12,7 +12,6 @@ Frontend Web Development & WordPress, Machine Learning, Software Testing & Artif
 - Exploring multiple domains of computer science to build a solid technical foundation  
 - Frontend web developer with experience in building **responsive user interfaces**  
 - Experience working with **HTML, CSS, and JavaScript** for frontend development  
-- Familiar with **PHP and WordPress** for basic backend understanding and website development  
 - Hands-on exposure to **manual testing and Selenium-based automation testing**  
 - Experience in building **machine learning models and data-driven applications**  
 - Actively seeking **internships, live projects, and real-world learning opportunities**
